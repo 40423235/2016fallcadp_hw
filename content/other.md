@@ -2,7 +2,7 @@ Title: other
 Date: 2016-09-2 12:00
 Category: Misc
 Tags: 設定
-Author: 40423205
+Author: 40423235
 
 <h2>使用環境設定</h2>
 <pre>
